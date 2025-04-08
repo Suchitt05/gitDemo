@@ -1,2 +1,3 @@
 # gitDemo
-Git Demo 
+This is gitDemo class!
+
